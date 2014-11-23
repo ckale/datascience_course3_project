@@ -4,7 +4,7 @@ Codebook for Course Project
 (Note: this applies to the mean_std_data data frame generated
 by the run_analysis.R script)
 
-Common qualifiers:
+* Common qualifiers:
 1. prefix of 't' implies measurement is in time domain
 2. prefix of 'f' implies measurement is in freq domain
 3. suffix of '-mean()' implies value is a mean
