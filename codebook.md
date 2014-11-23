@@ -5,11 +5,11 @@ Codebook for Course Project
 by the run_analysis.R script)
 
 * Field Name: SubjectID
->>* Description: An identifier of the subject who carried out the experiment 
->>* Data Type: Integer 
->>* Has NAs: No
+>* Description: An identifier of the subject who carried out the experiment 
+>* Data Type: Integer 
+>* Has NAs: No
 
 * Field Name: Activity
->>* Description: Enumeration of 6 activity types (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
->>* Data Type: Enumeration (Integer)
->>* Has NAs: No
+>* Description: Enumeration of 6 activity types (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+>* Data Type: Enumeration (Integer)
+>* Has NAs: No
